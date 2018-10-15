@@ -5,25 +5,11 @@
 ## Overview of Class for 16th of October
 
 ### All code files are on glitch.
-### https://glitch.com/edit/#!/viscom-vr?path=README.md:1:0
+* https://glitch.com/edit/#!/viscom-vr?path=README.md:1:0
 
-### WebVR basics with a focus on play and exploration of simple code
-### And thinking about designing for virtual environments
+* Please readthrough the class outline, which doubles as a student walkthrough. I will present some basics at the lecture, but you will need to go through the steps in class too.
 
-* 
-*
+* Outline here > https://clavis-magna.github.io/viscom-vr-workshop/
 
-### How to use glitch
-#### Please run through and demo the following
-* 
+* Please direct the students to this page at the beginning of the class.
 
-### webVR using the HTML format students will be familiar with from their introduction to web studio sessions.
-
-### Basics of webVR using A-Frame
-#### Please run through and demo the following
-* 
-* 
-
-
-### Bringing in new assets
-* 
