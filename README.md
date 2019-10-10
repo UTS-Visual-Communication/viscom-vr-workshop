@@ -9,7 +9,7 @@
 
 * Please readthrough the class outline, which doubles as a student walkthrough. I will present some basics at the lecture, but you will need to go through the steps in class too.
 
-* Outline here > https://clavis-magna.github.io/viscom-vr-workshop/
+* Outline here > https://uts-visual-communication.github.io/viscom-vr-workshop/
 
 * Please direct the students to this page at the beginning of the class.
 
